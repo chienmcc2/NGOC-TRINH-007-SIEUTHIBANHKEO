@@ -25,14 +25,422 @@ Trước khi giới thiệu bất kỳ sản phẩm nào, hãy chủ động h�
 
 Giới thiệu Sản phẩm:
 
-ten_san_pham: Biệt thự tại Mỹ Đình II, Nam Từ Liêm
-ma_san_pham: BT10
-loai_san_pham: Biệt thự
-dien_tich: 290
-phong_ngu: 5
-phong_tam: 4
-gia_thue: 73000000
-vi_tri: Khu vực Mỹ Đình II, Nam Từ Liêm, giao thông thuận tiện, dân trí cao.
-tien_ich: Gara ô tô, sân vườn, an ninh 24/7, gần trường học và trung tâm thương mại.
-mo_ta_noi_that: Nội thất hiện đại, đầy đủ tiện nghi gồm giường, tủ, điều hòa, sofa, bàn ăn.
-mo_ta_dien_nuoc: Hệ thống điện 3 pha, nước sạch, máy nước nóng năng lượng mặt trời.
+ten_san_pham: Bánh Ngọt Số 01
+ma_san_pham: BN01-S
+loai_san_pham: Bánh ngọt
+kich_thuoc: Nhỏ
+gia_ban: 35000
+trong_luong: 150g
+bao_bi: Hộp giấy nhỏ, in hoa văn tinh tế
+han_su_dung: 7 ngày kể từ ngày sản xuất
+thanh_phan: Bột mì, trứng, bơ, sữa, đường
+ghi_chu: Có thể đặt theo yêu cầu số lượng lớn
+tags: sinh nhật, trà chiều, ngọt ngào
+mo_ta_cam_xuc: Phù hợp cho những ngày bạn muốn nuông chiều bản thân.
+link_san_pham: https://ledacchien.com/san-pham/bn01-s
+
+ten_san_pham: Bánh Ngọt Số 01
+ma_san_pham: BN01-M
+loai_san_pham: Bánh ngọt
+kich_thuoc: Vừa
+gia_ban: 60000
+trong_luong: 300g
+bao_bi: Hộp giấy cứng, nắp trong suốt
+han_su_dung: 7 ngày kể từ ngày sản xuất
+thanh_phan: Bột mì, trứng, bơ, sữa, đường
+ghi_chu: Có thể đặt theo yêu cầu số lượng lớn
+tags: truyền thống, trà chiều, mềm mịn
+mo_ta_cam_xuc: Giòn ngoài, mềm trong – hấp dẫn ngay từ miếng đầu tiên.
+link_san_pham: https://ledacchien.com/san-pham/bn01-m
+
+ten_san_pham: Bánh Ngọt Số 01
+ma_san_pham: BN01-L
+loai_san_pham: Bánh ngọt
+kich_thuoc: Lớn
+gia_ban: 95000
+trong_luong: 500g
+bao_bi: Hộp quà cao cấp, có quai xách
+han_su_dung: 7 ngày kể từ ngày sản xuất
+thanh_phan: Bột mì, trứng, bơ, sữa, đường
+ghi_chu: Có thể đặt theo yêu cầu số lượng lớn
+tags: mềm mịn, dành cho trẻ em, trà chiều
+mo_ta_cam_xuc: Hương vị gợi nhớ tuổi thơ và những buổi chiều an yên.
+link_san_pham: https://ledacchien.com/san-pham/bn01-l
+
+ten_san_pham: Bánh Ngọt Số 02
+ma_san_pham: BN02-S
+loai_san_pham: Bánh ngọt
+kich_thuoc: Nhỏ
+gia_ban: 35000
+trong_luong: 150g
+bao_bi: Hộp giấy nhỏ, in hoa văn tinh tế
+han_su_dung: 7 ngày kể từ ngày sản xuất
+thanh_phan: Bột mì, trứng, bơ, sữa, đường
+ghi_chu: Có thể đặt theo yêu cầu số lượng lớn
+tags: sinh nhật, giảm căng thẳng, truyền thống
+mo_ta_cam_xuc: Tặng người thương một chiếc bánh, thay lời muốn nói.
+link_san_pham: https://ledacchien.com/san-pham/bn02-s
+
+ten_san_pham: Bánh Ngọt Số 02
+ma_san_pham: BN02-M
+loai_san_pham: Bánh ngọt
+kich_thuoc: Vừa
+gia_ban: 60000
+trong_luong: 300g
+bao_bi: Hộp giấy cứng, nắp trong suốt
+han_su_dung: 7 ngày kể từ ngày sản xuất
+thanh_phan: Bột mì, trứng, bơ, sữa, đường
+ghi_chu: Có thể đặt theo yêu cầu số lượng lớn
+tags: ngọt ngào, ăn kiêng, giảm căng thẳng
+mo_ta_cam_xuc: Tặng người thương một chiếc bánh, thay lời muốn nói.
+link_san_pham: https://ledacchien.com/san-pham/bn02-m
+
+ten_san_pham: Bánh Ngọt Số 02
+ma_san_pham: BN02-L
+loai_san_pham: Bánh ngọt
+kich_thuoc: Lớn
+gia_ban: 95000
+trong_luong: 500g
+bao_bi: Hộp quà cao cấp, có quai xách
+han_su_dung: 7 ngày kể từ ngày sản xuất
+thanh_phan: Bột mì, trứng, bơ, sữa, đường
+ghi_chu: Có thể đặt theo yêu cầu số lượng lớn
+tags: giảm căng thẳng, cao cấp, mềm mịn
+mo_ta_cam_xuc: Tặng người thương một chiếc bánh, thay lời muốn nói.
+link_san_pham: https://ledacchien.com/san-pham/bn02-l
+
+ten_san_pham: Bánh Ngọt Số 03
+ma_san_pham: BN03-S
+loai_san_pham: Bánh ngọt
+kich_thuoc: Nhỏ
+gia_ban: 35000
+trong_luong: 150g
+bao_bi: Hộp giấy nhỏ, in hoa văn tinh tế
+han_su_dung: 7 ngày kể từ ngày sản xuất
+thanh_phan: Bột mì, trứng, bơ, sữa, đường
+ghi_chu: Có thể đặt theo yêu cầu số lượng lớn
+tags: cao cấp, dành cho trẻ em, giảm căng thẳng
+mo_ta_cam_xuc: Một món quà nhỏ nhưng đầy ý nghĩa.
+link_san_pham: https://ledacchien.com/san-pham/bn03-s
+
+ten_san_pham: Bánh Ngọt Số 03
+ma_san_pham: BN03-M
+loai_san_pham: Bánh ngọt
+kich_thuoc: Vừa
+gia_ban: 60000
+trong_luong: 300g
+bao_bi: Hộp giấy cứng, nắp trong suốt
+han_su_dung: 7 ngày kể từ ngày sản xuất
+thanh_phan: Bột mì, trứng, bơ, sữa, đường
+ghi_chu: Có thể đặt theo yêu cầu số lượng lớn
+tags: sinh nhật, ăn kiêng, ngọt ngào
+mo_ta_cam_xuc: Phù hợp cho những ngày bạn muốn nuông chiều bản thân.
+link_san_pham: https://ledacchien.com/san-pham/bn03-m
+
+ten_san_pham: Bánh Ngọt Số 03
+ma_san_pham: BN03-L
+loai_san_pham: Bánh ngọt
+kich_thuoc: Lớn
+gia_ban: 95000
+trong_luong: 500g
+bao_bi: Hộp quà cao cấp, có quai xách
+han_su_dung: 7 ngày kể từ ngày sản xuất
+thanh_phan: Bột mì, trứng, bơ, sữa, đường
+ghi_chu: Có thể đặt theo yêu cầu số lượng lớn
+tags: dành cho trẻ em, mềm mịn, cao cấp
+mo_ta_cam_xuc: Giòn ngoài, mềm trong – hấp dẫn ngay từ miếng đầu tiên.
+link_san_pham: https://ledacchien.com/san-pham/bn03-l
+
+ten_san_pham: Bánh Ngọt Số 04
+ma_san_pham: BN04-S
+loai_san_pham: Bánh ngọt
+kich_thuoc: Nhỏ
+gia_ban: 35000
+trong_luong: 150g
+bao_bi: Hộp giấy nhỏ, in hoa văn tinh tế
+han_su_dung: 7 ngày kể từ ngày sản xuất
+thanh_phan: Bột mì, trứng, bơ, sữa, đường
+ghi_chu: Có thể đặt theo yêu cầu số lượng lớn
+tags: ngọt ngào, trà chiều, mềm mịn
+mo_ta_cam_xuc: Hương vị gợi nhớ tuổi thơ và những buổi chiều an yên.
+link_san_pham: https://ledacchien.com/san-pham/bn04-s
+
+ten_san_pham: Bánh Ngọt Số 04
+ma_san_pham: BN04-M
+loai_san_pham: Bánh ngọt
+kich_thuoc: Vừa
+gia_ban: 60000
+trong_luong: 300g
+bao_bi: Hộp giấy cứng, nắp trong suốt
+han_su_dung: 7 ngày kể từ ngày sản xuất
+thanh_phan: Bột mì, trứng, bơ, sữa, đường
+ghi_chu: Có thể đặt theo yêu cầu số lượng lớn
+tags: giảm căng thẳng, mềm mịn, truyền thống
+mo_ta_cam_xuc: Một món quà nhỏ nhưng đầy ý nghĩa.
+link_san_pham: https://ledacchien.com/san-pham/bn04-m
+
+ten_san_pham: Bánh Ngọt Số 04
+ma_san_pham: BN04-L
+loai_san_pham: Bánh ngọt
+kich_thuoc: Lớn
+gia_ban: 95000
+trong_luong: 500g
+bao_bi: Hộp quà cao cấp, có quai xách
+han_su_dung: 7 ngày kể từ ngày sản xuất
+thanh_phan: Bột mì, trứng, bơ, sữa, đường
+ghi_chu: Có thể đặt theo yêu cầu số lượng lớn
+tags: sinh nhật, mềm mịn, ăn kiêng
+mo_ta_cam_xuc: Thưởng thức và cảm nhận sự tinh tế trong từng lớp bánh.
+link_san_pham: https://ledacchien.com/san-pham/bn04-l
+
+ten_san_pham: Bánh Ngọt Số 05
+ma_san_pham: BN05-S
+loai_san_pham: Bánh ngọt
+kich_thuoc: Nhỏ
+gia_ban: 35000
+trong_luong: 150g
+bao_bi: Hộp giấy nhỏ, in hoa văn tinh tế
+han_su_dung: 7 ngày kể từ ngày sản xuất
+thanh_phan: Bột mì, trứng, bơ, sữa, đường
+ghi_chu: Có thể đặt theo yêu cầu số lượng lớn
+tags: ăn kiêng, truyền thống, cao cấp
+mo_ta_cam_xuc: Bánh mềm, ngọt dịu – như cái ôm của người thân.
+link_san_pham: https://ledacchien.com/san-pham/bn05-s
+
+ten_san_pham: Bánh Ngọt Số 05
+ma_san_pham: BN05-M
+loai_san_pham: Bánh ngọt
+kich_thuoc: Vừa
+gia_ban: 60000
+trong_luong: 300g
+bao_bi: Hộp giấy cứng, nắp trong suốt
+han_su_dung: 7 ngày kể từ ngày sản xuất
+thanh_phan: Bột mì, trứng, bơ, sữa, đường
+ghi_chu: Có thể đặt theo yêu cầu số lượng lớn
+tags: ăn kiêng, ngọt ngào, trà chiều
+mo_ta_cam_xuc: Vị bơ thơm lừng khiến lòng bạn dịu lại ngay lập tức.
+link_san_pham: https://ledacchien.com/san-pham/bn05-m
+
+ten_san_pham: Bánh Ngọt Số 05
+ma_san_pham: BN05-L
+loai_san_pham: Bánh ngọt
+kich_thuoc: Lớn
+gia_ban: 95000
+trong_luong: 500g
+bao_bi: Hộp quà cao cấp, có quai xách
+han_su_dung: 7 ngày kể từ ngày sản xuất
+thanh_phan: Bột mì, trứng, bơ, sữa, đường
+ghi_chu: Có thể đặt theo yêu cầu số lượng lớn
+tags: cao cấp, trà chiều, dành cho trẻ em
+mo_ta_cam_xuc: Một món quà nhỏ nhưng đầy ý nghĩa.
+link_san_pham: https://ledacchien.com/san-pham/bn05-l
+
+ten_san_pham: Bánh Ngọt Số 06
+ma_san_pham: BN06-S
+loai_san_pham: Bánh ngọt
+kich_thuoc: Nhỏ
+gia_ban: 35000
+trong_luong: 150g
+bao_bi: Hộp giấy nhỏ, in hoa văn tinh tế
+han_su_dung: 7 ngày kể từ ngày sản xuất
+thanh_phan: Bột mì, trứng, bơ, sữa, đường
+ghi_chu: Có thể đặt theo yêu cầu số lượng lớn
+tags: quà tặng, mềm mịn, giảm căng thẳng
+mo_ta_cam_xuc: Phù hợp cho những ngày bạn muốn nuông chiều bản thân.
+link_san_pham: https://ledacchien.com/san-pham/bn06-s
+
+ten_san_pham: Bánh Ngọt Số 06
+ma_san_pham: BN06-M
+loai_san_pham: Bánh ngọt
+kich_thuoc: Vừa
+gia_ban: 60000
+trong_luong: 300g
+bao_bi: Hộp giấy cứng, nắp trong suốt
+han_su_dung: 7 ngày kể từ ngày sản xuất
+thanh_phan: Bột mì, trứng, bơ, sữa, đường
+ghi_chu: Có thể đặt theo yêu cầu số lượng lớn
+tags: dành cho trẻ em, giảm căng thẳng, trà chiều
+mo_ta_cam_xuc: Vị bơ thơm lừng khiến lòng bạn dịu lại ngay lập tức.
+link_san_pham: https://ledacchien.com/san-pham/bn06-m
+
+ten_san_pham: Bánh Ngọt Số 06
+ma_san_pham: BN06-L
+loai_san_pham: Bánh ngọt
+kich_thuoc: Lớn
+gia_ban: 95000
+trong_luong: 500g
+bao_bi: Hộp quà cao cấp, có quai xách
+han_su_dung: 7 ngày kể từ ngày sản xuất
+thanh_phan: Bột mì, trứng, bơ, sữa, đường
+ghi_chu: Có thể đặt theo yêu cầu số lượng lớn
+tags: dành cho trẻ em, giảm căng thẳng, sinh nhật
+mo_ta_cam_xuc: Mang đến cảm giác ngọt ngào, dễ chịu, xua tan mệt mỏi.
+link_san_pham: https://ledacchien.com/san-pham/bn06-l
+
+ten_san_pham: Bánh Ngọt Số 07
+ma_san_pham: BN07-S
+loai_san_pham: Bánh ngọt
+kich_thuoc: Nhỏ
+gia_ban: 35000
+trong_luong: 150g
+bao_bi: Hộp giấy nhỏ, in hoa văn tinh tế
+han_su_dung: 7 ngày kể từ ngày sản xuất
+thanh_phan: Bột mì, trứng, bơ, sữa, đường
+ghi_chu: Có thể đặt theo yêu cầu số lượng lớn
+tags: ngọt ngào, dành cho trẻ em, sinh nhật
+mo_ta_cam_xuc: Chiếc bánh nhẹ nhàng như một lời yêu thương.
+link_san_pham: https://ledacchien.com/san-pham/bn07-s
+
+ten_san_pham: Bánh Ngọt Số 07
+ma_san_pham: BN07-M
+loai_san_pham: Bánh ngọt
+kich_thuoc: Vừa
+gia_ban: 60000
+trong_luong: 300g
+bao_bi: Hộp giấy cứng, nắp trong suốt
+han_su_dung: 7 ngày kể từ ngày sản xuất
+thanh_phan: Bột mì, trứng, bơ, sữa, đường
+ghi_chu: Có thể đặt theo yêu cầu số lượng lớn
+tags: trà chiều, truyền thống, sinh nhật
+mo_ta_cam_xuc: Phù hợp cho những ngày bạn muốn nuông chiều bản thân.
+link_san_pham: https://ledacchien.com/san-pham/bn07-m
+
+ten_san_pham: Bánh Ngọt Số 07
+ma_san_pham: BN07-L
+loai_san_pham: Bánh ngọt
+kich_thuoc: Lớn
+gia_ban: 95000
+trong_luong: 500g
+bao_bi: Hộp quà cao cấp, có quai xách
+han_su_dung: 7 ngày kể từ ngày sản xuất
+thanh_phan: Bột mì, trứng, bơ, sữa, đường
+ghi_chu: Có thể đặt theo yêu cầu số lượng lớn
+tags: trà chiều, quà tặng, cao cấp
+mo_ta_cam_xuc: Tặng người thương một chiếc bánh, thay lời muốn nói.
+link_san_pham: https://ledacchien.com/san-pham/bn07-l
+
+ten_san_pham: Bánh Ngọt Số 08
+ma_san_pham: BN08-S
+loai_san_pham: Bánh ngọt
+kich_thuoc: Nhỏ
+gia_ban: 35000
+trong_luong: 150g
+bao_bi: Hộp giấy nhỏ, in hoa văn tinh tế
+han_su_dung: 7 ngày kể từ ngày sản xuất
+thanh_phan: Bột mì, trứng, bơ, sữa, đường
+ghi_chu: Có thể đặt theo yêu cầu số lượng lớn
+tags: giảm căng thẳng, cao cấp, sinh nhật
+mo_ta_cam_xuc: Hương vị gợi nhớ tuổi thơ và những buổi chiều an yên.
+link_san_pham: https://ledacchien.com/san-pham/bn08-s
+
+ten_san_pham: Bánh Ngọt Số 08
+ma_san_pham: BN08-M
+loai_san_pham: Bánh ngọt
+kich_thuoc: Vừa
+gia_ban: 60000
+trong_luong: 300g
+bao_bi: Hộp giấy cứng, nắp trong suốt
+han_su_dung: 7 ngày kể từ ngày sản xuất
+thanh_phan: Bột mì, trứng, bơ, sữa, đường
+ghi_chu: Có thể đặt theo yêu cầu số lượng lớn
+tags: cao cấp, quà tặng, trà chiều
+mo_ta_cam_xuc: Chiếc bánh nhẹ nhàng như một lời yêu thương.
+link_san_pham: https://ledacchien.com/san-pham/bn08-m
+
+ten_san_pham: Bánh Ngọt Số 08
+ma_san_pham: BN08-L
+loai_san_pham: Bánh ngọt
+kich_thuoc: Lớn
+gia_ban: 95000
+trong_luong: 500g
+bao_bi: Hộp quà cao cấp, có quai xách
+han_su_dung: 7 ngày kể từ ngày sản xuất
+thanh_phan: Bột mì, trứng, bơ, sữa, đường
+ghi_chu: Có thể đặt theo yêu cầu số lượng lớn
+tags: trà chiều, dành cho trẻ em, ăn kiêng
+mo_ta_cam_xuc: Phù hợp cho những ngày bạn muốn nuông chiều bản thân.
+link_san_pham: https://ledacchien.com/san-pham/bn08-l
+
+ten_san_pham: Bánh Ngọt Số 09
+ma_san_pham: BN09-S
+loai_san_pham: Bánh ngọt
+kich_thuoc: Nhỏ
+gia_ban: 35000
+trong_luong: 150g
+bao_bi: Hộp giấy nhỏ, in hoa văn tinh tế
+han_su_dung: 7 ngày kể từ ngày sản xuất
+thanh_phan: Bột mì, trứng, bơ, sữa, đường
+ghi_chu: Có thể đặt theo yêu cầu số lượng lớn
+tags: sinh nhật, dành cho trẻ em, quà tặng
+mo_ta_cam_xuc: Giòn ngoài, mềm trong – hấp dẫn ngay từ miếng đầu tiên.
+link_san_pham: https://ledacchien.com/san-pham/bn09-s
+
+ten_san_pham: Bánh Ngọt Số 09
+ma_san_pham: BN09-M
+loai_san_pham: Bánh ngọt
+kich_thuoc: Vừa
+gia_ban: 60000
+trong_luong: 300g
+bao_bi: Hộp giấy cứng, nắp trong suốt
+han_su_dung: 7 ngày kể từ ngày sản xuất
+thanh_phan: Bột mì, trứng, bơ, sữa, đường
+ghi_chu: Có thể đặt theo yêu cầu số lượng lớn
+tags: dành cho trẻ em, mềm mịn, truyền thống
+mo_ta_cam_xuc: Phù hợp cho những ngày bạn muốn nuông chiều bản thân.
+link_san_pham: https://ledacchien.com/san-pham/bn09-m
+
+ten_san_pham: Bánh Ngọt Số 09
+ma_san_pham: BN09-L
+loai_san_pham: Bánh ngọt
+kich_thuoc: Lớn
+gia_ban: 95000
+trong_luong: 500g
+bao_bi: Hộp quà cao cấp, có quai xách
+han_su_dung: 7 ngày kể từ ngày sản xuất
+thanh_phan: Bột mì, trứng, bơ, sữa, đường
+ghi_chu: Có thể đặt theo yêu cầu số lượng lớn
+tags: giảm căng thẳng, mềm mịn, quà tặng
+mo_ta_cam_xuc: Mang đến cảm giác ngọt ngào, dễ chịu, xua tan mệt mỏi.
+link_san_pham: https://ledacchien.com/san-pham/bn09-l
+
+ten_san_pham: Bánh Ngọt Số 10
+ma_san_pham: BN10-S
+loai_san_pham: Bánh ngọt
+kich_thuoc: Nhỏ
+gia_ban: 35000
+trong_luong: 150g
+bao_bi: Hộp giấy nhỏ, in hoa văn tinh tế
+han_su_dung: 7 ngày kể từ ngày sản xuất
+thanh_phan: Bột mì, trứng, bơ, sữa, đường
+ghi_chu: Có thể đặt theo yêu cầu số lượng lớn
+tags: cao cấp, mềm mịn, ngọt ngào
+mo_ta_cam_xuc: Giòn ngoài, mềm trong – hấp dẫn ngay từ miếng đầu tiên.
+link_san_pham: https://ledacchien.com/san-pham/bn10-s
+
+ten_san_pham: Bánh Ngọt Số 10
+ma_san_pham: BN10-M
+loai_san_pham: Bánh ngọt
+kich_thuoc: Vừa
+gia_ban: 60000
+trong_luong: 300g
+bao_bi: Hộp giấy cứng, nắp trong suốt
+han_su_dung: 7 ngày kể từ ngày sản xuất
+thanh_phan: Bột mì, trứng, bơ, sữa, đường
+ghi_chu: Có thể đặt theo yêu cầu số lượng lớn
+tags: giảm căng thẳng, quà tặng, ngọt ngào
+mo_ta_cam_xuc: Một món quà nhỏ nhưng đầy ý nghĩa.
+link_san_pham: https://ledacchien.com/san-pham/bn10-m
+
+ten_san_pham: Bánh Ngọt Số 10
+ma_san_pham: BN10-L
+loai_san_pham: Bánh ngọt
+kich_thuoc: Lớn
+gia_ban: 95000
+trong_luong: 500g
+bao_bi: Hộp quà cao cấp, có quai xách
+han_su_dung: 7 ngày kể từ ngày sản xuất
+thanh_phan: Bột mì, trứng, bơ, sữa, đường
+ghi_chu: Có thể đặt theo yêu cầu số lượng lớn
+tags: quà tặng, sinh nhật, trà chiều
+mo_ta_cam_xuc: Phù hợp cho những ngày bạn muốn nuông chiều bản thân.
+link_san_pham: https://ledacchien.com/san-pham/bn10-l
